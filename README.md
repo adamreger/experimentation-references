@@ -22,4 +22,5 @@ Various references for effective online experimentation
 * [GrowthBook](https://medium.com/growth-book)
 
 ## YouTube
-* [Eytan Bakshy - Designing and Deploying Online Experiments with PlanOut](https://www.youtube.com/watch?v=Ayd4sqPH2DE)
+[![Eytan Bakshy - Designing and Deploying Online Experiments with PlanOut](https://img.youtube.com/vi/Ayd4sqPH2DE/0.jpg)](https://www.youtube.com/watch?v=Ayd4sqPH2DE)
+
