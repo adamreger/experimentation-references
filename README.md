@@ -19,3 +19,6 @@ Various references for effective online experimentation
   * [Part 5](https://medium.com/@weonhyeok.chung/book-summary-trustworthy-online-controlled-experiments-part-v-476d0df20e16)
 * [A/B test analysis methods: how to choose the right method for each type of metric and sample size](https://medium.com/@wwwspywww/a-b-test-analysis-methods-how-to-choose-the-right-method-for-each-type-of-metric-and-sample-size-49d64bb3094b)
 * [GrowthBook](https://medium.com/growth-book)
+
+## YouTube
+* [Eytan Bakshy - Designing and Deploying Online Experiments with PlanOut](https://www.youtube.com/watch?v=Ayd4sqPH2DE)
