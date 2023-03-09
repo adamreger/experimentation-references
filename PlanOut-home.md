@@ -1,27 +1,10 @@
-window.addEventListener('DOMContentLoaded',function(){var v=archive\_analytics.values;v.service='wb';v.server\_name='wwwb-app227.us.archive.org';v.server\_ms=238;archive\_analytics.send\_pageview({});}); \_\_wm.init("https://web.archive.org/web"); \_\_wm.wombat("https://facebook.github.io/planout/","20200928084631","https://web.archive.org/","web","/\_static/", "1601282791");     PlanOut | A framework for online field experiments         (function(i,s,o,g,r,a,m){i\['GoogleAnalyticsObject'\]=r;i\[r\]=i\[r\]||function(){ (i\[r\].q=i\[r\].q||\[\]).push(arguments)},i\[r\].l=1\*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)\[0\];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//web.archive.org/web/20200928084631/http://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-49528430-1', 'facebook.github.io'); ga('send', 'pageview'); \_\_wm.rw(0);
-
-The Wayback Machine - https://web.archive.org/web/20200928084631/https://facebook.github.io/planout/
-
-//<!\[CDATA\[ \_\_wm.bt(700,27,25,2,"web","http://facebook.github.io/planout/","20200928084631",1996,"/\_static/",\["/\_static/css/banner-styles.css?v=S1zqJCYt","/\_static/css/iconochive.css?v=qtvMKcIJ"\], false); \_\_wm.rw(1); //\]\]>
-
-[
-
-PlanOut
-=======
-
-](/web/20200928084631/http://facebook.github.io/planout/index.html)
-
-*   [Docs](/web/20200928084631/http://facebook.github.io/planout/docs/getting-started.html)
-*   [Blog](/web/20200928084631/http://facebook.github.io/planout/blog/)
-*   [Editor](https://web.archive.org/web/20200928084631/http://planout-editor.herokuapp.com/)
-*   [GitHub](https://web.archive.org/web/20200928084631/http://github.com/facebook/planout)
-
 PlanOut
 =======
 
 A framework for online field experiments
 
-[Get Started](/web/20200928084631/http://facebook.github.io/planout/docs/getting-started.html) [GitHub](https://web.archive.org/web/20200928084631/http://github.com/facebook/planout)
+* [Get Started](/web/20200928084631/http://facebook.github.io/planout/docs/getting-started.html)
+* [GitHub](https://web.archive.org/web/20200928084631/http://github.com/facebook/planout)
 
 ### Focus on parameters
 
@@ -77,20 +60,20 @@ In addition to the Python reference implementation written by Facebook, there ar
 
 Production-ready ports of PlanOut are available at:
 
-*   [JavaScript](https://web.archive.org/web/20200928084631/https://github.com/HubSpot/PlanOut.js): complete port of the PlanOut reference implementation to JavaScript. Includes native APIs for ES5 and ES6, as wll as React integration.
+*   [JavaScript](https://github.com/HubSpot/PlanOut.js): complete port of the PlanOut reference implementation to JavaScript. Includes native APIs for ES5 and ES6, as wll as React integration.
     
-*   [Java](https://web.archive.org/web/20200928084631/https://github.com/Glassdoor/planout4j): full-featured implementation of PlanOut by Glassdoor, including experiment lifecycle management and code review.
+*   [Java](https://github.com/Glassdoor/planout4j): full-featured implementation of PlanOut by Glassdoor, including experiment lifecycle management and code review.
     
-*   [PHP](https://web.archive.org/web/20200928084631/https://github.com/vimeo/ABLincoln): Vimeo’s implementation of PlanOut. Includes native API with PSR logging.
+*   [PHP](https://github.com/vimeo/ABLincoln): Vimeo’s implementation of PlanOut. Includes native API with PSR logging.
     
 
 Under development:
 
-*   [Go](https://web.archive.org/web/20200928084631/https://github.com/URXtech/planout-golang): implementation of PlanOut interpreter for golang.
+*   [Go](https://github.com/URXtech/planout-golang): implementation of PlanOut interpreter for golang.
     
-*   [Lua](https://web.archive.org/web/20200928084631/https://github.com/Fanatics/planout.lua): a complete port of the PlanOut API and language interpreter.
+*   [Lua](https://github.com/Fanatics/planout.lua): a complete port of the PlanOut API and language interpreter.
     
-*   [Ruby](https://web.archive.org/web/20200928084631/https://github.com/facebook/planout/tree/master/alpha/ruby): basic native API implementation of PlanOut for Ruby
+*   [Ruby](https://github.com/facebook/planout/tree/master/alpha/ruby): basic native API implementation of PlanOut for Ruby
     
 
 If you are publishing research using PlanOut, please consider referencing our work,
