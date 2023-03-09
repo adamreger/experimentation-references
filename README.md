@@ -7,6 +7,7 @@ Various references for effective online experimentation
 ## Projects of Note
 * [PlanOut](https://github.com/facebookarchive/planout) - developed by Facebook
 * [PlanOut4J](https://github.com/Glassdoor/planout4j) - PlanOut4J is a Java-based implementation of Facebook's PlanOut
+* [Ax](https://github.com/facebook/Ax) - Ax is an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments
 
 ## Medium Articles
 * [Accelerating Innovations Through Experimentation: Part I](https://medium.com/glassdoor-engineering/accelerating-innovations-through-experimentation-part-i-75be12198ea) - Glassdoor experimentation
