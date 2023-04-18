@@ -1,8 +1,9 @@
 # experimentation-references
 Various references for effective online experimentation
 
-## Whitepapers
+## Publications / Whitepapers
 * [Facebook PlanOut framework](http://arxiv.org/pdf/1409.3174v1.pdf)
+* [Alex Deng](http://alexdeng.github.io/)
 
 ## Projects of Note
 * [PlanOut](https://github.com/facebookarchive/planout) - developed by Facebook
